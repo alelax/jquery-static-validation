@@ -1,0 +1,14 @@
+label, input {
+    display: block;
+    margin: 10px 0;
+    width: 90vw;
+}
+
+.red-border {
+  border: 2px solid red;
+}
+
+.green-border {
+  border: 2px solid green;
+
+} 
